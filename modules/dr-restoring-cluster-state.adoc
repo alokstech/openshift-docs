@@ -1,5 +1,4 @@
 // Module included in the following assemblies:
-//
 // * disaster_recovery/scenario-2-restoring-cluster-state.adoc
 // * post_installation_configuration/cluster-tasks.adoc
 
